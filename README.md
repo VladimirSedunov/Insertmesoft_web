@@ -64,7 +64,9 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 ![ ](/design/images/insert.png)
 
+## Раздел "Файл с инсёртами"
 
+Позволяет посмотреть содержимое сформированного скрипта, а также скачать файл на компьютер пользователя.
 
 
 
