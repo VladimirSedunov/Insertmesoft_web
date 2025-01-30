@@ -68,6 +68,7 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 Позволяет посмотреть содержимое сформированного скрипта, а также скачать файл на компьютер пользователя.
 
+![ ](/design/images/file.png)
 
 
 <hr>
