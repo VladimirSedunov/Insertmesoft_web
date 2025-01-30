@@ -36,7 +36,7 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 При входе на страницу http://***/ появится окно авторизации:
 
-![ ](/design/icons/login.png)
+![ ](/design/images/login.png)
 
 
 
