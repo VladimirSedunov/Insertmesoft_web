@@ -7,7 +7,7 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 ![](/design/icons/Python.png)&emsp;
 ![](/design/icons/Java.png)&emsp;
-![](/design/icons/csss.png)&emsp;
+![](/design/icons/css.png)&emsp;
 
 ![](/design/icons/Selenium.png)&emsp;
 ![](/design/icons/Selene.png)&emsp;
