@@ -3,7 +3,7 @@
 <hr>
 
 ## Проект реализован с использованием
-Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlchemy = Jinja2
+Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlchemy = Jinja2 = DB2 for z/OS
 
 ![](/design/icons/Python.png)&emsp;
 ![](/design/icons/Java.png)&emsp;
@@ -15,7 +15,6 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 ![](/design/icons/postgresql.png)&emsp;
 ![](/design/icons/sqlalchemy.png)&emsp;
 ![ ](/design/icons/jinja.png)&emsp;
-
 ![ ](/design/icons/db2.png)
 
 <hr>
