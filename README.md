@@ -62,7 +62,7 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 После формирования инсёртов в поле под чекбоксами пишется ACC_ID из обработанной выборки (если счетов несколько, пишутся все через запятую).
 
-![ ](/design/images/iтыуке.png)
+![ ](/design/images/insert.png)
 
 
 
