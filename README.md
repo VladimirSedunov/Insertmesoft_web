@@ -38,7 +38,9 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 ![ ](/design/images/login.png)
 
+## Внешний вид:
 
+![ ](/design/images/vid1.png)
 
 
 <hr>
