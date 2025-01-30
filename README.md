@@ -5,7 +5,19 @@
 ## Проект реализован с использованием
 Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlchemy = Jinja2
 
-![](/design/icons/Python.png)&emsp;![](/design/icons/Pytest.png)&emsp;![](/design/icons/Selenium.png)&emsp;![](/design/icons/Selene.png)&emsp;![](/design/icons/Selenoid.png)&emsp;![](/design/icons/Allure_Report.png)&emsp;![](/design/icons/Jenkins.png)&emsp;![](/design/icons/Telegram.png)&emsp;![](/design/icons/Java.png)&emsp;![ ](/design/icons/WAS.png)&emsp;![ ](/design/icons/db2.png)
+![](/design/icons/Python.png)&emsp;
+![](/design/icons/Java.png)&emsp;
+![](/design/icons/csss.png)&emsp;
+
+![](/design/icons/Selenium.png)&emsp;
+![](/design/icons/Selene.png)&emsp;
+![](/design/icons/Selenoid.png)&emsp;
+![](/design/icons/Allure_Report.png)&emsp;
+![](/design/icons/Jenkins.png)&emsp;
+![](/design/icons/Telegram.png)&emsp;
+
+![ ](/design/icons/WAS.png)&emsp;
+![ ](/design/icons/db2.png)
 
 <hr>
 
