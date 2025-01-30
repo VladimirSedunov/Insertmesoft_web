@@ -80,6 +80,7 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 ## Раздел "Селекты"
 
+![ ](/design/images/select.png)
 
 
 <hr>
