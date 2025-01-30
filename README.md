@@ -1,4 +1,5 @@
 <h1 align="center">Утилита для заливки в БД выборки по СНИЛС</h1>
+<h3 align="center">(WEB-версия утилиты InsertMeSoft)</h3>
 
 <hr>
 
