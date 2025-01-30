@@ -78,5 +78,8 @@ Python = Java = CSS = JavaScript = JQuery = HTML = Flask = PostgreSQL = SQLAlche
 
 ![ ](/design/images/clone.png)
 
+## Раздел "Селекты"
+
+
 
 <hr>
